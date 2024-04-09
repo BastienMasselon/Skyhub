@@ -4,7 +4,7 @@ Skyhub a pour objectif de mettre en relation les passionnés d’astronomie, peu
 
 Il s'agit de mon premier site réalisé de A à Z en équipe : un projet de fin de formation dont le temps de réalisation est limité à un mois (certaines parties du code peuvent donc sembler lacunaires). Nous étions 5 personnes : 2 côté back et 3 pour la partie front. J'ai tenu le rôle de lead dev front.
 
-La partie front est réalisée avec React (JS) et la partie back avec Symphony (PHP).
+La partie front est réalisée avec React (JS) et la partie back avec Symfony (PHP).
 
 ## :stars: Résultat 
 
